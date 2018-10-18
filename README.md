@@ -10,38 +10,14 @@ This is a full stack web application built with React and is powered by Node and
 
 ### Live Example
 
-[https://search-nyt-with-react.herokuapp.com/](https://search-nyt-with-react.herokuapp.com/)
+[https://secure-plateau-33675.herokuapp.com/](https://secure-plateau-33675.herokuapp.com/)
 
 > Since the app is hosted on a free [Heroku](https://www.heroku.com/) instance, it may need some time to boot up.
-
-### Installing
-
-After downloading the distribution, you will need to download the app dependencies:
-
-```
-$ cd reaction
-$ yarn install
-$ cd client
-$ yarn install
-```
-
-Open a new terminal window and run MongoDB:
-
-```
-$ mongod
-```
-
-Return to the previous terminal window, navigate to the root directory, and run the application:
-
-```
-$ cd reaction
-$ yarn start
-```
 
 
 ## Using New York Times Article Search
 
-1. To start using the CoS Scraper, navigate to [http://localhost:3000/](http://localhost:3000/)
+1. To start using the CoS Scraper, navigate to [https://secure-plateau-33675.herokuapp.com/](https://secure-plateau-33675.herokuapp.com/)
 
 	![Home Page](./img/nytArticleSearch01.png)
 	
